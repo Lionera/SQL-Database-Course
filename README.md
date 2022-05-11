@@ -36,7 +36,7 @@ From https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 --Notice on the LHS table, the ID# is unique for every row entry, RHS table utilizes unique usernames for each entry.
 
-~ For Relational Databases [Structured Query Language](SQL)
+~ For Relational Databases --- Structured Query Language (SQL)
   - Utilize Relational Database Management Systems (RDBMS)
   - Help users create & maintain a relational database
     - mySQL, Oracle, postgreSQL, mariaDB, etc.
