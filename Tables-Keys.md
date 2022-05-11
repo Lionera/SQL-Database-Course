@@ -41,7 +41,9 @@ Example:
   - When a table doesn't have a primary key to uniquely define each entry, then it may need to use composite keys...
   - This is where 2 or more columns are used instead of 1 to uniquely identify every row...
   - Ex: branch_id and supplier_name are two columns where each individual row may have duplicates, but every branch_id & supplier_name pair ARE UNIQUE. So the tuples/pairs of the compositie key columns are in fact unique
-  - 
+  
+Example:
+<img src = "Images/Composite-Key-Example.PNG">
 
 
 
