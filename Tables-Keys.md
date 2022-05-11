@@ -21,3 +21,15 @@ This consists of:
 
 <img src = "Images/Foreign-Key-Example.PNG">
 
+~ As we can see here, the Employee table uses the branch_id foreign key to associate the Branch table primary key entries!
+  - Notice these foreign keys can be used multiple times given the different entries
+    - I.e., Jan is associated with foreign branch_id 1, which means she is a part of the Corporate branch
+  - Notice the branch table can also link its own foreign keys as well back to the Employee table
+    - So mgr_id in the branch table links to the Employee primary key (emp_id) which is associated with manager id of the Employee
+  - So essentially, these foreign keys help us define the relationships between entries in different tables!
+
+~ Foreign keys are not limited to only a single foreign key column--meaning tables may have multiple foreign key associations
+
+*Example:
+
+
