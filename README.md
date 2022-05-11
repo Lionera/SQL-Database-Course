@@ -32,5 +32,5 @@ From https://www.youtube.com/watch?v=HXV3zeQKqGY
     - Graphs
     - Flexible Tables
     
-<img src = "Images/Relational-DB-Example.PNG">
+<img src = "../Images/Relational-DB-Example.PNG">
   
