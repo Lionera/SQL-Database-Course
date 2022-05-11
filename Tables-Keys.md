@@ -14,7 +14,7 @@ This consists of:
   - And so, these primary keys are used to differentiate both Jacks who major in biology!
   - (More table examples after 27:25 in the video)
 ~ Surrogate Keys - Random key assignment as primary key (no key mapping to real world), but is more used to uniquely identify 
-~ Natural Keys - Numbers that also uniquely identify rows as primary key, although may have more meaning involved (i.e., social security number)
+~ Natural Keys - Numbers that also uniquely identify rows as primary key, although may have more meaning involved (associated with the real world) (i.e., social security number)
 
 ~ Foreign Keys - Attribute we can store to a DB table which essentially links us to another DB table
   - Stores the primary keys of the Row entries of the linked DB table
@@ -55,6 +55,8 @@ Example:
 
 As we can see here, Andy Bernard (emp_id 104) has sold to client_id 403 (John Daly Law, LLC) $5,000 worth of product as an example.
   - And we can map the other employees & their sales to clients based on this design!
+  - Additionally: Notice that for the Works_With table, it utilizes a composite key to uniquely identify each entry, but this is a special type of composite key since both columns are ALSO FOREIGN KEYS!
+  - So, foreign keys can also be used to make up the primary keys for tables
 
 
 
