@@ -30,6 +30,6 @@ This consists of:
 
 ~ Foreign keys are not limited to only a single foreign key column--meaning tables may have multiple foreign key associations
 
-*Example:
-
+Example:
+<img src = "Images/Multiple-Foreign-Key-Example.PNG">
 
