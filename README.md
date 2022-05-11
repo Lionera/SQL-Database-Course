@@ -31,4 +31,6 @@ From https://www.youtube.com/watch?v=HXV3zeQKqGY
     - Documents (JSON, XML, etc.)
     - Graphs
     - Flexible Tables
+    
+<img src = "Images/Relational-DB-Example.PNG">
   
