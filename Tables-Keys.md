@@ -19,4 +19,5 @@ This consists of:
 ~ Foreign Keys - Attribute we can store to a DB table which essentially links us to another DB table
   - Stores the primary keys of the Row entries of the linked DB table
 
+<img src = "Images/Foreign-Key-Example.PNG">
 
