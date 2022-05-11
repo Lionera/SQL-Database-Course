@@ -46,5 +46,16 @@ Example:
 
 <img src = "Images/Composite-Key-Example.PNG">
 
+~ We can analyze the tables given this information to identify certain aspects of what is occurring. This helps later down the line for generating queries/information regarding these associations.
+  - For instance, given the Employee, Branch, Client, and now a Works_With tables, we can map out specific employees who managed to sell a certain amount of product to clients!
+
+Example:
+
+<img src = "Images/Table-Key-Association.PNG">
+
+As we can see here, Andy Bernard (emp_id 104) has sold to client_id 403 (John Daly Law, LLC) $5,000 worth of product as an example.
+  - And we can map the other employees & their sales to clients based on this design!
+
+
 
 
