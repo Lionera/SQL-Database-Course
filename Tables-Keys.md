@@ -33,3 +33,9 @@ This consists of:
 Example:
 <img src = "Images/Multiple-Foreign-Key-Example.PNG">
 
+- So, we can see there is an additional super_id foreign key column which represents the supervisor ID of an employee
+  - Basically, this super_id is actually linking foreign key to its OWN EMPLOYEE TABLE!
+    - So Angela (emp_id 103) has super_id 101 -- indicating her supervisor has emp_id 101 who is Michael Scott 
+
+
+
