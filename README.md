@@ -45,6 +45,7 @@ From https://www.youtube.com/watch?v=HXV3zeQKqGY
     - Used to perform C.R.U.D operations, as well as other administrative tasks (user management, security, backup, etc.)
     - Used to define tables & structures
     - SQL code used on one RDBMS is not always portable to another without modification.
-  -  
+
+<img src = "Images/Non-Relational-DB-Example.PNG">
 
   
