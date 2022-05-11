@@ -33,4 +33,18 @@ From https://www.youtube.com/watch?v=HXV3zeQKqGY
     - Flexible Tables
     
 <img src = "Images/Relational-DB-Example.png">
+
+--Notice on the LHS table, the ID# is unique for every row entry, RHS table utilizes unique usernames for each entry.
+
+~ For Relational Databases [Structured Query Language](SQL)
+  - Utilize Relational Database Management Systems (RDBMS)
+  - Help users create & maintain a relational database
+    - mySQL, Oracle, postgreSQL, mariaDB, etc.
+  - Structured Query Lanaguage (SQL)
+    - Standardized language for interacting with RDBMS
+    - Used to perform C.R.U.D operations, as well as other administrative tasks (user management, security, backup, etc.)
+    - Used to define tables & structures
+    - SQL code used on one RDBMS is not always portable to another without modification.
+  -  
+
   
