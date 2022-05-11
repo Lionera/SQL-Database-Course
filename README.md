@@ -48,4 +48,17 @@ From https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 <img src = "Images/Non-Relational-DB-Example.PNG">
 
+~ Just like Relational DB's, we can have non-relational DB systems 
+  - Non-Relational Database Management Systems (NRDBMS)
+    - Help users create & maintain a non-relational database
+      - mongoDB, dynamoDB, apache cassandra, firebase, etc.
+  - Implementation Specific
+    - Any non-relational database falls under this category, so there's no set language standard
+    - Most NRDBMS will implement their own language for performing C.R.U.D and administrative operations on the database
+
+~ Database Queries
+  - Queries are requests made to the dbms for specific information
+  - As the database's structure become more complex, it becomes difficult to get the specific pieces of information we want.
+    - Ex: A google search is a query
+
   
