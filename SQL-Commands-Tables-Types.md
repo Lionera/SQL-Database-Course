@@ -4,8 +4,9 @@
 
 --------------------------------------- COMMANDS ---------------------------------------
 ~ It's convention to write SQL commands/code in all capital letters typically to differentiate between other code & line ends with semicolon
-  - I.e., CREATE TABLE student
-  
+  - I.e., 
+    
+    CREATE TABLE student
     (
     
       student_id INT PRIMARY KEY,
