@@ -32,8 +32,15 @@
   - Deleting a database:
     - DROP DATABASE <db name>;
   
-~ In editor:
-  - CREATE TABLE
+~ In editor - Defining a basic schema:
+  - CREATE TABLE <table name> (); -> creates a table 
+  - DESCRIBE <table name>; -> run query to view the table contents
+  - DROP TABLE <table name>; -> deletes the table
+  - ALTER TABLE student ADD gpa DECIMAL(3, 2); -> This will add a decimal type variable called gpa to the student table
+  - ALTER Table student DROP COLUMN gpa; -> This will drop the gpa attribute (column) in the student table
+  
+  * Note: Performing these commands in the editor is essentially defining the SCHEMA of the database.
+    - Meaning you would create all these tables/attributes first and THEN input your data after.
   
 --------------------------------------- DATA TYPES ---------------------------------------
 <img src = "Images/Basic-Types.PNG">
