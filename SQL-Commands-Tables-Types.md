@@ -41,6 +41,9 @@
   
   * Note: Performing these commands in the editor is essentially defining the SCHEMA of the database.
     - Meaning you would create all these tables/attributes first and THEN input your data after.
+    
+~ Inserting data into tables:
+  - INSERT INTO student VALUES();
   
 --------------------------------------- DATA TYPES ---------------------------------------
 <img src = "Images/Basic-Types.PNG">
