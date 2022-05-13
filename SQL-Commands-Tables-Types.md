@@ -15,6 +15,10 @@
       
     );
     
+~ From PopSQL running the 'giraffe' database created in MySQL:
+
+<img src = "Images/PopSQL-First-Table.PNG">
+    
 ~ Using Command Line Client:
   - Displaying all databases detected:
     - SHOW DATABASES;
