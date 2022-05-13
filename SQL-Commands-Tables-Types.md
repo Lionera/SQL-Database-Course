@@ -28,14 +28,14 @@
   - Displaying all databases detected:
     - SHOW DATABASES;
   - Creating a database:
-    - CREATE DATABASE <db name>;
+    - CREATE DATABASE {db name};
   - Deleting a database:
-    - DROP DATABASE <db name>;
+    - DROP DATABASE {db name};
   
 ~ In editor - Defining a basic schema:
-  - CREATE TABLE <table name> (); -> creates a table 
-  - DESCRIBE <table name>; -> run query to view the table contents
-  - DROP TABLE <table name>; -> deletes the table
+  - CREATE TABLE {table name} (); -> creates a table 
+  - DESCRIBE {table name}; -> run query to view the table contents
+  - DROP TABLE {table name}; -> deletes the table
   - ALTER TABLE student ADD gpa DECIMAL(3, 2); -> This will add a decimal type variable called gpa to the student table
   - ALTER Table student DROP COLUMN gpa; -> This will drop the gpa attribute (column) in the student table
   
