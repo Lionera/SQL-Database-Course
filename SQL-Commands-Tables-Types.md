@@ -25,6 +25,7 @@
       name VARCHAR(25) NOT NULL,
       major VARCHAR(20) UNIQUE,
       PRIMARY KEY(student_id)
+      
     );
     
     ~ Additionally, we could set default values for particular variables:
@@ -36,6 +37,7 @@
       name VARCHAR(25),
       major VARCHAR(20) DEFAULT 'undecided',
       PRIMARY KEY(student_id)
+      
     );
     
 ~ From PopSQL running the 'giraffe' database created in MySQL:
