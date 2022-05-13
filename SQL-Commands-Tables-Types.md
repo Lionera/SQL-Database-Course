@@ -19,6 +19,10 @@
 ~ From PopSQL running the 'giraffe' database created in MySQL:
 
 <img src = "Images/PopSQL-First-Table.PNG">
+
+~ Note: You can also specify a primary key in this way as well:
+
+<img src = "Images/Another-Way-Primary-Key.PNG">
     
 ~ Using Command Line Client:
   - Displaying all databases detected:
