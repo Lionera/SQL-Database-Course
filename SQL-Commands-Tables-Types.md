@@ -3,6 +3,7 @@
 ~ Utilizing PopSQL (SQL editor) which can use local db connections from what was created using MySQL
 
 --------------------------------------- COMMANDS ---------------------------------------
+
 ~ Using Command Line Client:
   - Displaying all databases detected:
     - SHOW DATABASES;
@@ -13,4 +14,5 @@
   
 --------------------------------------- DATA TYPES ---------------------------------------
 <img src = "Images/Basic-Types.PNG">
+
 ~ For the DECIMAL(M,N) -> both M and N are numbers where M is the total number of digits that you want to store and N is the number of digits you want to store after the decimal point. 
