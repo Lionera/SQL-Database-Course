@@ -5,11 +5,14 @@
 --------------------------------------- COMMANDS ---------------------------------------
 ~ It's convention to write SQL commands/code in all capital letters typically to differentiate between other code & line ends with semicolon
   - I.e., CREATE TABLE student
+  
     (
       student_id INT PRIMARY KEY,
       name VARCHAR(25),
       major VARCHAR(20)
+      
     );
+    
 ~ Using Command Line Client:
   - Displaying all databases detected:
     - SHOW DATABASES;
