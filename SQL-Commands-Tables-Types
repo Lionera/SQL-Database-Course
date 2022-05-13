@@ -1,4 +1,8 @@
-Using MySQL -> Main folder for DB on Windows -> C:\ProgramData\MySQL\MySQL Server 8.0\Data
+~ Using MySQL -> Main folder for DB on Windows -> C:\ProgramData\MySQL\MySQL Server 8.0\Data
+
+~ Utilizing PopSQL (SQL editor) which can use local db connections from what was created using MySQL
+
+--------------------------------------- COMMANDS ---------------------------------------
 ~ Using Command Line Client:
   - Displaying all databases detected:
     - SHOW DATABASES;
@@ -6,3 +10,5 @@ Using MySQL -> Main folder for DB on Windows -> C:\ProgramData\MySQL\MySQL Serve
     - CREATE DATABASE <db name>;
   - Deleting a database:
     - DROP DATABASE <db name>;
+  
+  ---------------------------------------  ---------------------------------------
