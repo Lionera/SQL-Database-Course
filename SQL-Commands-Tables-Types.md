@@ -3,7 +3,8 @@
 ~ Utilizing PopSQL (SQL editor) which can use local db connections from what was created using MySQL
 
 --------------------------------------- COMMANDS ---------------------------------------
-~ It's convention to write SQL commands/code in all capital letters typically to differentiate between other code & line ends with semicolon
+
+~ It's a convention to write SQL commands/code in all capital letters typically to differentiate between other code & line ends with semicolon
   - I.e., 
     
     CREATE TABLE student
